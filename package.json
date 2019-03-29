@@ -1,0 +1,18 @@
+{
+  "name": "tdea-edcon-api",
+  "version": "0.1.0",
+  "description": "REST API para el Sistema de información para el programa de educación continua de la institución unversitaria TdeA",
+  "main": "index.js",
+  "repository": "https://github.com/cdatehortuab/tdea-edcon-api",
+  "author": "Cristian Atehortua",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
